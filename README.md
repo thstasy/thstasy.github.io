@@ -7,7 +7,7 @@
 - **Public Educator** in science and technology.
 - **Hackathon Lover** always ready for innovative challenges.
 
-## MY PROJECTS DEMO ON YOUTUBE(Mostly are course projects)
+## MY PROJECTS DEMO ON YOUTUBE
 
 - ** [My Version of Google Search](https://youtu.be/sjy78Rc3Qfg?si=r-1gv5brqW5SjEU0)
 - ** [My Book Selection](https://youtu.be/-4R4KqfIyH4?si=ACmvL9t2eb9myx1m)
