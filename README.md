@@ -9,11 +9,11 @@
 
 ## MY PROJECTS DEMO ON YOUTUBE
 
-- ** [My Version of Google Search](https://youtu.be/sjy78Rc3Qfg?si=r-1gv5brqW5SjEU0)
-- ** [My Book Selection](https://youtu.be/-4R4KqfIyH4?si=ACmvL9t2eb9myx1m)
-- ** [My Social Network Website](https://youtu.be/qZZ0oMD-Y_E?si=tOpJlIjIlIpbMjlJ)
-- ** [Financial Manager App](https://youtu.be/UPMghQvOQII?si=fxJdDGZfG-tCFg0a)
-- ** [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](www.public-privacy.xyz) 
+-  [My Version of Google Search](https://youtu.be/sjy78Rc3Qfg?si=r-1gv5brqW5SjEU0)
+-  [My Book Selection](https://youtu.be/-4R4KqfIyH4?si=ACmvL9t2eb9myx1m)
+-  [My Social Network Website](https://youtu.be/qZZ0oMD-Y_E?si=tOpJlIjIlIpbMjlJ)
+-  [Financial Manager App](https://youtu.be/UPMghQvOQII?si=fxJdDGZfG-tCFg0a)
+-  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](www.public-privacy.xyz) 
 
 # PROFESSIONAL EXPERIENCE
 
