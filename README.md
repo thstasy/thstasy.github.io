@@ -1,4 +1,4 @@
-## Summary
+## SUMMARY
 
 - **Software Engineer** focused on decentralized applications with over 2 years of experience.
 - **Interpersonal Skills Expert** with a proven track record of successful teamwork.
@@ -6,6 +6,7 @@
 - **Open Source Enthusiast** contributing to various projects.
 - **Public Educator** in science and technology.
 - **Hackathon Lover** always ready for innovative challenges.
+
 
 ## MY PROJECTS DEMO ON YOUTUBE
 
