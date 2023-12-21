@@ -19,10 +19,10 @@
 ## JAVA PROJECTS SOURCE CODE
 - [member service](https://github.com/th-hsieh/member.git)
 
-## PYTHON AI PROEJCTS SOURCE CODE
+## AI & ML PROEJCTS SOURCE CODE
 - [AI & ML](https://github.com/thstasy/CS50_AI.git)
 
-## PYTHON GAME THEORY PLAYGROUND CODES
+## PYTHON PROJECTS CODE
 - [diverse python codes](https://github.com/thstasy/CS50_Python.git)
 
 # PROFESSIONAL EXPERIENCE
