@@ -14,7 +14,16 @@
 -  [My Book Selection](https://youtu.be/-4R4KqfIyH4?si=ACmvL9t2eb9myx1m)
 -  [My Social Network Website](https://youtu.be/qZZ0oMD-Y_E?si=tOpJlIjIlIpbMjlJ)
 -  [Financial Manager App](https://youtu.be/UPMghQvOQII?si=fxJdDGZfG-tCFg0a)
--  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](www.public-privacy.xyz) 
+-  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](www.public-privacy.xyz)
+
+## JAVA PROJECTS SOURCE CODE
+- [member service](https://github.com/th-hsieh/member.git)
+
+## PYTHON AI PROEJCTS SOURCE CODE
+- [AI & ML](https://github.com/thstasy/CS50_AI.git)
+
+## PYTHON GAME THEORY PLAYGROUND CODES
+- [diverse python codes](https://github.com/thstasy/CS50_Python.git)
 
 # PROFESSIONAL EXPERIENCE
 
