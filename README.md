@@ -20,11 +20,12 @@
 - [member service](https://github.com/th-hsieh/member.git)
 
 ## AI & ML PROEJCTS SOURCE CODE
-- [AI & ML](https://github.com/thstasy/CS50_AI.git)
+- [AI & ML](https://github.com/thstasy/AI_projects_Harvard.git)
 
 ## PYTHON PROJECTS CODE
-- [diverse python codes](https://github.com/thstasy/CS50_Python.git)
-
+- [python projects' codes](https://github.com/thstasy/Python_projects_from_Harvard.git)
+- [modified game theory codes](https://github.com/thstasy/Game_theory.git)
+  
 # PROFESSIONAL EXPERIENCE
 
 ## AUG. 2021 - NOW
