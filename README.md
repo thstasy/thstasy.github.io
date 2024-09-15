@@ -46,7 +46,7 @@ Welcome to my portfolio, showcasing work in **Data Science**, **Software Enginee
 
 ---
 
-## Work Experience
+## Current Work
 
 **Avionics Software Engineer & Rocket Systems Analyst**  
 _TASA and ARRC_ (Feb 2021 – Present, Hsinchu, Taiwan)  
