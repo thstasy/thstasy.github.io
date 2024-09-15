@@ -15,44 +15,44 @@ Welcome to my portfolio, showcasing my work in **Data Science**, **Software Engi
 -  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](https://youtu.be/0l37bo8lUlg?si=uyWxFp0PsoHVnLll)
   
 ## 1. Data Science Projects
-- **[Wealth-and-Well-being-A-Global-Suicide-Analysis](https://github.com/your_username/Wealth-and-Well-being-A-Global-Suicide-Analysis)**
+- **[Wealth-and-Well-being-A-Global-Suicide-Analysis](https://github.com/thstasy/Wealth-and-Well-being-A-Global-Suicide-Analysis)**
   - Examines the link between GDP per capita, suicide rates, and the life expectancy gap between men and women, revealing how economic and health factors influence mental well-being globally.
 
-- **[Mental-Health-Analysis-Suicide](https://github.com/your_username/Mental-Health-Analysis-Suicide)**
+- **[Mental-Health-Analysis-Suicide](https://github.com/thstasy/Mental-Health-Analysis-Suicide)**
   - A deep dive into the global landscape of mental health and suicide rates, uncovering critical insights.
 
-- **[Data-Driven-Insights-Unveiling-Superstore-Performance](https://github.com/your_username/Data-Driven-Insights-Unveiling-Superstore-Performance)**
+- **[Data-Driven-Insights-Unveiling-Superstore-Performance](https://github.com/thstasy/Data-Driven-Insights-Unveiling-Superstore-Performance)**
   - Handles large datasets, performs key sales analyses, and creates actionable business recommendations using clean visualizations.
 
-- **[AI-Talent-vs-Unemployment](https://github.com/your_username/AI-Talent-vs-Unemployment)**
+- **[AI-Talent-vs-Unemployment](https://github.com/thstasy/AI-Talent-vs-Unemployment)**
   - A comparative analysis of AI talent availability and unemployment rates from global datasets.
 
-- **[House-Price-Prediction-Using-Linear-Regression](https://github.com/your_username/House-Price-Prediction-Using-Linear-Regression)**
+- **[House-Price-Prediction-Using-Linear-Regression](https://github.com/thstasy/House-Price-Prediction-Using-Linear-Regression)**
   - Predicts house prices using linear regression, providing insights into real estate trends.
 
-- **[Global-Vaccination-Data-Analysis-Insights](https://github.com/your_username/Global-Vaccination-Data-Analysis-Insights)**
+- **[Global-Vaccination-Data-Analysis-Insights](https://github.com/thstasy/Global-Vaccination-Data-Analysis-Insights)**
   - Tracks vaccination progress globally and provides insights through Tableau.
 
-- **[Costco-Data-Analysis-Report](https://github.com/your_username/Costco-Data-Analysis-Report)**
+- **[Costco-Data-Analysis-Report](https://github.com/thstasy/Costco-Data-Analysis-Report)**
   - Analyzes grocery sales to enhance sales strategies.
 
-- **[A-Market-Analysis-of-Antwerp-Airbnb-Pricing](https://github.com/your_username/A-Market-Analysis-of-Antwerp-Airbnb-Pricing)**
+- **[A-Market-Analysis-of-Antwerp-Airbnb-Pricing](https://github.com/thstasy/A-Market-Analysis-of-Antwerp-Airbnb-Pricing)**
   - Investigates Antwerp's Airbnb pricing, revealing insights into market dynamics.
 
 ## 2. Software Engineering Projects
 
-- **[Flight-Software-System](https://github.com/your_username/Flight-Software-System)**
+- **[Flight-Software-System](https://github.com/thstasy/Flight-Software-System)**
   - Develops and maintains systems for flight software in aerospace.
 
-- **[GoPhish](https://github.com/your_username/GoPhish)**
+- **[GoPhish](https://github.com/thstasy/GoPhish)**
   - A phishing campaign created for an academic project(and for fun!), focusing on Georgia Institute of Technology's email system  security vulnerabilities.
 
-- **[public-privacy-frontend](https://github.com/your_username/public-privacy-frontend)** & **[public-privacy-backend](https://github.com/your_username/public-privacy-backend)**
+- **[public-privacy-frontend](https://github.com/thstasy/public-privacy-frontend)** & **[public-privacy-backend](https://github.com/thstasy/public-privacy-backend)**
   - Full-stack development for privacy-focused applications using JavaScript and Java.
 
 ## 3. Technical Writing
 
-- **[Technical-Writing-Portfolio](https://github.com/your_username/Technical-Writing-Portfolio)**
+- **[Technical-Writing-Portfolio](https://github.com/thstasy/Technical-Writing-Portfolio)**
   - A collection of technical reports and documentation from my professional work in aerospace and data science. (Partially in Mandarain)
 
 ---
