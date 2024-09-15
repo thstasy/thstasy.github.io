@@ -18,7 +18,7 @@ Welcome to my portfolio, showcasing work in **Data Science**, **Software Enginee
 
 ---
 
-## 1. Data Science Projects
+## 1. Data Science Projects(Driven by Societal Interest)
 
 - **[Wealth-and-Well-being: Global Suicide Analysis](https://github.com/thstasy/Wealth-and-Well-being-A-Global-Suicide-Analysis)**  
 - **[Mental Health Analysis: Suicide](https://github.com/thstasy/Mental-Health-Analysis-Suicide)**  
