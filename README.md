@@ -1,3 +1,7 @@
+# Tsai-Hsuan Stasy Hsieh's Portfolio
+
+Welcome to my portfolio, showcasing my work in **Data Science**, **Software Engineering**, and **Technical Writing**.
+
 ## SUMMARY
 
 - **Software Engineer** focused on decentralized applications with over 2 years of experience.
@@ -7,24 +11,67 @@
 - **Public Educator** in science and technology.
 - **Hackathon Lover** always ready for innovative challenges.
 
+##  0. MY PROJECT FOR WOMEN IN STEM DEMO ON YOUTUBE
+-  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](https://youtu.be/0l37bo8lUlg?si=uyWxFp0PsoHVnLll)
+  
+## 1. Data Science Projects
+- **[Wealth-and-Well-being-A-Global-Suicide-Analysis](https://github.com/your_username/Wealth-and-Well-being-A-Global-Suicide-Analysis)**
+  - Examines the link between GDP per capita, suicide rates, and the life expectancy gap between men and women, revealing how economic and health factors influence mental well-being globally.
 
-## MY PROJECTS DEMO ON YOUTUBE
+- **[Mental-Health-Analysis-Suicide](https://github.com/your_username/Mental-Health-Analysis-Suicide)**
+  - A deep dive into the global landscape of mental health and suicide rates, uncovering critical insights.
 
--  [My Version of Google Search](https://youtu.be/sjy78Rc3Qfg?si=r-1gv5brqW5SjEU0)
--  [My Book Selection](https://youtu.be/-4R4KqfIyH4?si=ACmvL9t2eb9myx1m)
--  [My Social Network Website](https://youtu.be/qZZ0oMD-Y_E?si=tOpJlIjIlIpbMjlJ)
--  [Financial Manager App](https://youtu.be/UPMghQvOQII?si=fxJdDGZfG-tCFg0a)
--  [Public & Privacy ---An inclusive website I set up for female in STEM to participate in.](www.public-privacy.xyz)
+- **[Data-Driven-Insights-Unveiling-Superstore-Performance](https://github.com/your_username/Data-Driven-Insights-Unveiling-Superstore-Performance)**
+  - Handles large datasets, performs key sales analyses, and creates actionable business recommendations using clean visualizations.
 
-## JAVA PROJECTS SOURCE CODE
-- [member service](https://github.com/th-hsieh/member.git)
+- **[AI-Talent-vs-Unemployment](https://github.com/your_username/AI-Talent-vs-Unemployment)**
+  - A comparative analysis of AI talent availability and unemployment rates from global datasets.
 
-## AI & ML PROEJCTS SOURCE CODE
-- [AI & ML](https://github.com/thstasy/AI_projects_Harvard.git)
+- **[House-Price-Prediction-Using-Linear-Regression](https://github.com/your_username/House-Price-Prediction-Using-Linear-Regression)**
+  - Predicts house prices using linear regression, providing insights into real estate trends.
 
-## PYTHON PROJECTS CODE
-- [python projects' codes](https://github.com/thstasy/Python_projects_from_Harvard.git)
-- [modified game theory codes](https://github.com/thstasy/Game_theory.git)
+- **[Global-Vaccination-Data-Analysis-Insights](https://github.com/your_username/Global-Vaccination-Data-Analysis-Insights)**
+  - Tracks vaccination progress globally and provides insights through Tableau.
+
+- **[Costco-Data-Analysis-Report](https://github.com/your_username/Costco-Data-Analysis-Report)**
+  - Analyzes grocery sales to enhance sales strategies.
+
+- **[A-Market-Analysis-of-Antwerp-Airbnb-Pricing](https://github.com/your_username/A-Market-Analysis-of-Antwerp-Airbnb-Pricing)**
+  - Investigates Antwerp's Airbnb pricing, revealing insights into market dynamics.
+
+## 2. Software Engineering Projects
+
+- **[Flight-Software-System](https://github.com/your_username/Flight-Software-System)**
+  - Develops and maintains systems for flight software in aerospace.
+
+- **[GoPhish](https://github.com/your_username/GoPhish)**
+  - A phishing campaign created for an academic project(and for fun!), focusing on Georgia Institute of Technology's email system  security vulnerabilities.
+
+- **[public-privacy-frontend](https://github.com/your_username/public-privacy-frontend)** & **[public-privacy-backend](https://github.com/your_username/public-privacy-backend)**
+  - Full-stack development for privacy-focused applications using JavaScript and Java.
+
+## 3. Technical Writing
+
+- **[Technical-Writing-Portfolio](https://github.com/your_username/Technical-Writing-Portfolio)**
+  - A collection of technical reports and documentation from my professional work in aerospace and data science. (Partially in Mandarain)
+
+---
+
+## Latest Work Experience
+
+**Avionics Software Engineer & Rocket Systems Analyst**  
+_TASA and ARRC (Advanced Rocket Research Center)_  
+_Feb 2021 – Present | Hsinchu City, Taiwan_
+
+- **Avionics Software Development & Rocket Systems**  
+  Developed avionics software and rocket pusher drivers in C, C++, and Python.
+
+- **Real-Time Data Analysis**  
+  Conducted experiments and performed real-time data analysis to optimize rocket system performance.
+
+- **Cross-Functional Collaboration**  
+  Collaborated with TASA and multidisciplinary teams to ensure seamless project integration and success.
+
   
 # PROFESSIONAL EXPERIENCE
 
