@@ -64,35 +64,16 @@ _TASA and ARRC (Advanced Rocket Research Center)_
 _Feb 2021 – Present | Hsinchu City, Taiwan_
 
 - **Avionics Software Development & Rocket Systems**  
-  Developed avionics software and rocket pusher drivers in C, C++, and Python.
+  Developed a user interface and avionics software for rocket pusher drivers using C, Python, and Java. Integrated NASA's backend system Yamcs and OpenMCT to create a comprehensive Ground Control Panel for telemetry data reception and monitoring. 
 
 - **Real-Time Data Analysis**  
   Conducted experiments and performed real-time data analysis to optimize rocket system performance.
 
 - **Cross-Functional Collaboration**  
   Collaborated with TASA and multidisciplinary teams to ensure seamless project integration and success.
-
-  
-# PROFESSIONAL EXPERIENCE
-
-## AUG. 2021 - NOW
-**Freelancer in AI R&D strategies | Academia Sinica, Taipei, Taiwan**
--Decentralized AI System Application Developer: Responsible for frontend and backend of generative AI plus cybersecurity systems deployment to the cloud
-- Power Efficiency Optimization: Analyze and optimize distributed power efficiency through the implementation of advanced modeling and algorithmic approaches, resulting in system enhancements.
-- Enhancing Publication Impact: Strategically refine clients' conference publication specifications to ensure optimal impact and visibility.
-
-## MAR. 2019 - JAN. 2020
-**Physics Design Engineer | ASM Pacific Technology, Taipei, Taiwan**
-- Led R&D collaboration projects between ASM's Asian and European Branches.
-- Liaison with key customers on internal and external system specifications to ensure products meet production team requirements.
-- Bridged customers’ needs into camera with stray-light analysis and power studies using ray-tracing.
+---
 
 # EDUCATION
-
-## DEC. 2022 - MAY. 2023
-**National Cheng Kung University, Tainan, Taiwan**
-Professional Software Development Bootcamp focusing on ReactJS Frontend, Java Backend, System Optimization with Data Structure, Algorithm, and User Experience Survey.
-- Project: public-privacy.xyz – an inclusive online forum focusing on gender equality in the Scientific and Technical domain.
 
 ## FEB. 2020 - FEB. 2021
 **UNIVERSITY OF BASEL, Basel, Switzerland**
