@@ -14,11 +14,11 @@ Welcome to my portfolio, showcasing work in **Data Science**, **Software Enginee
 ---
 
 ## FEATURED PROJECT:  
-- **[Public & Privacy — Inclusive website for women in STEM](https://youtu.be/0l37bo8lUlg?si=uyWxFp0PsoHVnLll)**
+- **[Medium Data Science Articles](https://thstasy.medium.com/list/data-science-e4928c3fb7ba)**
 
 ---
 
-## 1. Data Science Projects(Driven by Societal Interest)
+## 1. Data Science Projects (Driven by Societal Interest)
 
 - **[Wealth-and-Well-being: Global Suicide Analysis](https://github.com/thstasy/Wealth-and-Well-being-A-Global-Suicide-Analysis)**  
 - **[Mental Health Analysis: Suicide](https://github.com/thstasy/Mental-Health-Analysis-Suicide)**  
@@ -27,7 +27,7 @@ Welcome to my portfolio, showcasing work in **Data Science**, **Software Enginee
 - **[House Price Prediction](https://github.com/thstasy/House-Price-Prediction-Using-Linear-Regression)**  
 - **[Global Vaccination Insights](https://github.com/thstasy/Global-Vaccination-Data-Analysis-Insights)**  
 - **[Costco Data Analysis](https://github.com/thstasy/Costco-Data-Analysis-Report)**  
-- **[Antwerp Airbnb Market Analysis](https://github.com/thstasy/A-Market-Analysis-of-Antwerp-Airbnb-Pricing)**  
+- **[Antwerp Airbnb Market Analysis](https://github.com/thstasy/A-Market-Analysis-of-Antwerp-Airbnb-Pricing)**
 
 ---
 
